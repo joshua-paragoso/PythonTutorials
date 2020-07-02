@@ -24,7 +24,7 @@ mylist = [1,2,3]
 print(mylist[0])
 
 #excericse:
-print("-------Excercise---------")
+print("-------Excercise---------")RR
 # In this exercise, you will need to 
 # add numbers and strings to the correct 
 # lists using the "append" list method. 
